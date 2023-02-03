@@ -8,9 +8,11 @@
     </ul>
     </td>
     <td style="width:30%">
-      J'aime le code depuis mon adolescance<br>
-      et c'est presque devenu une affaire de famille<br>
-      d'entrer dans cet univers riche, au potentiel créatif infini !
+      <p align="justify">
+        J'aime le code depuis mon adolescance et c'est<br>
+        presque devenu une affaire de famille d'entrer<br>
+        dans cet univers riche, au potentiel créatif infini !
+      </p>
     </td>
     <td style="width:10%; align-text: right;">
 <img width="128px" src="https://cdn-icons-png.flaticon.com/512/2572/2572711.png">
