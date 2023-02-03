@@ -8,8 +8,8 @@
     </ul>
     </td>
     <td style="width:30%">
-      J'aime le code depuis mon adolescance
-      et c'est presque devenu une affaire de famille
+      J'aime le code depuis mon adolescance<br>
+      et c'est presque devenu une affaire de famille<br>
       d'entrer dans cet univers riche, au potentiel créatif infini !
     </td>
     <td style="width:10%; align-text: right;">
