@@ -9,7 +9,7 @@
     </td>
     <td style="width:30%">
       <p align="justify">
-        J'aime le code depuis mon adolescance et c'est<br>
+        J'aime le code depuis mon adolescence et c'est<br>
         presque devenu une affaire de famille d'entrer<br>
         dans cet univers riche, au potentiel créatif infini !
       </p>
