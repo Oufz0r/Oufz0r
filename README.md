@@ -1,6 +1,6 @@
 # Hi there 👋 Bonjour !
 ## Je suis Développeur Intégrateur Web
-## J'ai obtenu mon diplôme @ OpenClassrooms
+### J'ai obtenu mon diplôme @ OpenClassrooms
 <table style="text-align: center; width: 90%;">
   <tr><td style="width:60%">
     <h2>Mes domaines</h2>
